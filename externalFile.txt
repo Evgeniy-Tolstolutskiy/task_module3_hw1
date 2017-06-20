@@ -1,0 +1,9 @@
+{
+  "event:1":{"title":"some title", "date":"12/22/2017"},
+  "user:1":{"name":"Mitchel", "email":"mitchel@epam.com"},
+  "ticket:1":{"eventId":"1", "userId":"1", "category":"PREMIUM", "place":"3"},
+  "ticket":"wrong info",
+  "ticket:2":"wrong info",
+  "event:2":{"title":"some title", "date":"wrong date"},
+  "ticket:3":{"eventId":"sdfdsfdsfdf", "userId":"dffggg", "category":"PREMIUM", "place":"sdfdsf"}
+}
